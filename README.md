@@ -1,23 +1,23 @@
 # P6 OO Terminology 
  
-##Learning Competencies
+## Learning Competencies
 
 * Create well-defined classes with a single responsibility
 * Identify and implement classes based on real world requirements
 * Implement clean and flexible interfaces between objects
 
-##Summary 
+## Summary 
 
 You've been learning a few common Object Oriented terms, now it's time to test and stretch your understanding. In this challenge you will create a gist to explore Object Oriented terms and state how they relate to a single problem space. 
 
 Your submission will demonstrate a solid understanding of OO terminology. You should be able to use each term in a practical application.
 
 
-##Releases
+## Releases
 
 Your definitions, code examples, and explanatory comments should be written out explicitly in the `cosa.rb` file. This may be a in the form of a program, pseudocode or just commentary, as discussed above. 
 
-###Release 0 : Choose your Cosa!
+### Release 0 : Choose your Cosa!
 
 Choose a problem space to model. (Reminder: In software, the problem space is the set of requirements; these define the goal your software is trying to achieve, and any limits on potential solutions). Your problem space model is a description of a real world problem expressed in software objects. To make life more interesting we'll refer to this 'Problem Space' as your **Cosa** (spanish for `thing`).
 
@@ -92,9 +92,6 @@ For example, to explain Inheritance for the example of Bicycles:  **Inheritance*
 
 Note: This is a very brief example, but still illustrates the concept of inheritance. 
 
-
-<!-- ##Optimize Your Learning  -->
-
-##Resources
+## Resources
 
 * [Practical Object-Oriented Design in Ruby](http://www.poodr.info/) (POODR) - available under Dropbox / Books
