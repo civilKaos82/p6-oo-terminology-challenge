@@ -49,7 +49,7 @@ Now it's your turn. You need to choose your own **Cosa** that will allow you to 
 * Person, boss, employee
 * Grade book
 
-###Release 1 : Model the OO Basics - Tools and Terms
+### Release 1 : Model the OO Basics - Tools and Terms
 
 * `attr_reader`, `attr_writer`, or `attr_accessor`
 * Public and Private Methods
@@ -60,11 +60,11 @@ First, define the terms above in two or three sentences. Then, create a code exa
 
 Your definitions, code examples, and explanatory comments should be written out explicitly in the `cosa.rb` file.
 
-####Inheritance or Composition?
+#### Inheritance or Composition?
 
 Is your **Cosa** better modeled by inheritance or composition?  First, define the two terms. In 2-3 sentences, describe why inheritance or composition are more suitable for your example (in a comment beneath your code.)  
 
-####Implement (Optional)
+#### Implement (Optional)
 
 Implement both inheritance and composition and describe how both are exhibited in your code.
 
